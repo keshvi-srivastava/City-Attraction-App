@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Project3Companion</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurants">Restaurants</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="CompanionPermisson">Defines the dangerous permissions for the companion application</string>
+
+
+    <string-array name="restaurant_names">
+        <item>Time Out Market</item>
+        <item>Giordanos</item>
+        <item>Cheesecake Factory</item>
+        <item>PF Changs</item>
+        <item>Shake Shack</item>
+        <item>The Noodle Company</item>
+    </string-array>
+
+    <string-array name="attraction_names">
+        <item>The Bean</item>
+        <item>Riverwalk</item>
+        <item>Millenium Park</item>
+        <item>the Museum of Science and Indutry</item>
+        <item>Garfield Conservatory Park</item>
+        <item>Navy Pier</item>
+        <item>Observation Deck Chicago</item>
+        <item>Sky Deck - Willis Tower</item>
+    </string-array>
+
+    <string-array name="restaurant_url">
+        <item>https://www.timeoutmarket.com/chicago/</item>
+        <item>https://giordanos.com/</item>
+        <item>https://www.thecheesecakefactory.com/</item>
+        <item>https://www.pfchangs.com/locations/us/il/chicago/213-west-hubbard-street/7002-chicago-hubbard.html</item>
+        <item>https://www.shakeshack.com/location/river-north-chicago/</item>
+        <item>https://www.noodles.com/</item>
+    </string-array>
+
+    <string-array name="attraction_url">
+        <item>https://www.choosechicago.com/articles/tours-and-attractions/the-bean-chicago/</item>
+        <item>https://www.chicagoriverwalk.us/learn</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://garfieldconservatory.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://360chicago.com/</item>
+        <item>https://theskydeck.com/</item>
+    </string-array>
+
+</resources>

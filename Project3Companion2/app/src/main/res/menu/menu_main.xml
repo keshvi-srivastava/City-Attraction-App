@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.project3companion.Attractions">
+    <item
+        android:id="@+id/attraction"
+        android:orderInCategory="100"
+        android:title="Attractions"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/restaurant"
+        android:orderInCategory="100"
+        android:title="Restaurants"
+        app:showAsAction="never" />
+</menu>
